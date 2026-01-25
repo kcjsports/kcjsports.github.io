@@ -4,7 +4,7 @@ excerpt: Running development programs trusted by 3 student organizations across 
 collection: portfolio
 ---
 
-| ![Spring 2026](/images/Hatchling/S26.jpg)   | ![Fall 2025](/images/Hatchling/F25.JPG)   | ![G_Fall 2025](/images/Hatchling/G_F25.jpg)   | ![Fall 2025](/images/Hatchling/S25.jpg)   |
+| ![Spring 2026](/images/Hatchling/S26.jpg)   | ![Fall 2025](/images/Hatchling/F25.jpg)   | ![G_Fall 2025](/images/Hatchling/G_F25.jpg)   | ![Fall 2025](/images/Hatchling/S25.jpg)   |
 | :-----------------------------------------: | :---------------------------------------: | :-------------------------------------------: | :---------------------------------------: |
 |        *College Station (Spring 2026)*      |           *College Station (Fall 2025)*   |           *Galveston (Fall 2025)*             |        *College Station (Spring 2025)*    |
 
