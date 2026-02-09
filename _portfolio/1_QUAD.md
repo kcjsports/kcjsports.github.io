@@ -1,6 +1,6 @@
 ---
 title: TURTLE Quadruped Project (QUAD)
-excerpt: A series of quadrupedal robots developed with TURTLE Robotics at Texas A&M University<br/><img src='/images/QUAD/Thumb.jpg'/>
+excerpt: A series of quadrupedal robots developed with TURTLE Robotics at Texas A&M University<br/><video controls loop muted playsinline><source src='/files/QUAD/QUADV2_Standing.mp4' type='video/mp4'></video>
 collection: portfolio
 ---
 
