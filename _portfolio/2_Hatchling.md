@@ -41,39 +41,3 @@ Featuring 6 face buttons, four bumpers/triggers, two joysticks, and OLED screen,
 Hatchling Cup: Takes design inspiration from the NBA Cup and Stanley Cup to recognize the winners of the bi-annual College Station Hatchling Competition. The modular base structure allows the addition of new winner plaques after the initial base fills up.
 Hatchling Director Memento: Takes inspiration from the Hatchling Winner Trophy and is given to the students leaders who make Hatchling possible
 Hatchling Winner Trophy: A small keeps sake to recognize the winners of the bi-annual College Station Hatchling Competition
-
-## My Contributions
-
-**Spring 2026**  
-- Engaging 200+ undergraduate engineers through Hatchling, while coordinating 20 inter-organizational leaders and
-the curriculum spanning technical, project management, and leadership skills  
-- Pitching a College Station alliance that will provide hundreds of engineering students free access to student
-organization workshops  
-- Leading the development of two Hatchling Sequel programs (Mechanical and Software Incubator) that will continue
-to foster hands-on learning and leadership growth in more specialized topics starting in Fall 2026  
-
-**Fall 2025**  
-- Successfully pitched and oversaw the expansion of Hatchling to Texas A&M organization, SOMTECH, and Texas
-A&M Galveston organization, TART, providing 80 additional members access to the program  
-- Primary speaker for a 200-member Hatchling semester cohort and coordinated the 17 interorganizational leaders  
-- Published Hatchling online to expand access for 132 undergraduates unable to participate due to space limitations  
-- Introduced the TURTLE Workshop Series to provide a platform for TURTLE’s 320+ members to gain public  
-speaking experience and/or learn new technical and leadership skills.  
-- Organized two collaboration workshops with WIRED and SOMTECH  
-- Met with several organizations, including IGNITORS (1st year), Aggies Create, WIRED (1st year), and AggieSat
-as a consultant to their mentorship programs  
-- Implemented an organizational-wide procurement process, reducing lead time by a week for the 21 project teams  
-
-**Spring 2025**  
-- Spearheaded the Hatchling overhaul, resulting in:  
-  - Implementation of new curriculum, seeing a threefold increase in retention to 75%  
-  - 95% recommend the program to others, with 70% of participants entering without prior engineering experience  
-  - Increased project completion rate sixfold to 60%  
-  - Reduced introductory program spending and achieved net-positive operations under a $1,400 budget constraint  
-  - Creation of documentation and internal operations restructuring for long-term sustainability  
-- Primary speaker for a 100-member Hatchling semester cohort and coordinated the 8 Hatchling leaders  
-- Designed trophies to recognize the efforts made by Hatchling leaders and members  
-
-**Fall 2024**  
-- Primary speaker for a 95-member Hatchling semester cohort and coordinated the 3 Hatchling leaders  
-- Pitched Hatchling restructuring to better align with the original mission statement and Aggie Values  
