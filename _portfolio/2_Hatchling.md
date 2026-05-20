@@ -1,6 +1,6 @@
 ---
-title: TURTLE Development VP
-excerpt: Running development programs trusted by 3 student organizations across the Texas A&M System<br/><img src='/images/Hatchling/Thumb.JPG'>
+title: TURTLE Senior Leadership
+excerpt: Aligning leaders running a 400+ member organization<br/><img src='/images/Hatchling/Thumb.JPG'>
 collection: portfolio
 ---
 
