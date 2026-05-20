@@ -7,9 +7,8 @@ collection: portfolio
 | ![QUAD V2](/images/QUAD/QUAD_V2.png) | ![Mini QUAD V1](/images/QUAD/Mini_QUAD_V1.png) |
 | :----------------------------------: | :--------------------------------------------: |
 |        *QUAD V2 (Fall 2025)*         |           *Mini QUAD V1 (Fall 2024)*           |
-
 <div style="text-align: center;">
-<video controls src="../images/QUAD/QUADV2_Standing.mp4" title="Title"></video>
+<video controls src="/images/QUAD/QUADV2_Standing.mp4" title="Title"></video>
 </div>
 Posters: [Fall 2025](/files/QUAD/QUAD_Poster_Fall_2025.pdf), [Spring 2025](/files/QUAD/QUAD_Poster_Spring_2025.pdf), [Fall 2024](/files/QUAD/QUAD_Poster_Fall_2024.pdf)  
 Code: [QUAD V2](https://github.com/turtle-robotics/quad-v2), [QUAD V1](https://github.com/turtle-robotics/quad)  
